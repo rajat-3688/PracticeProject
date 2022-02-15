@@ -1,0 +1,7 @@
+com\softwareag\integration\channels\BusinessChannelSender.class
+com\softwareag\integration\handler\BusinessDataMessageHandler.class
+com\softwareag\integration\main\ChannelApplication.class
+com\softwareag\integration\payload\BusinessData.class
+com\softwareag\integration\channels\SubscribableChannelImpl.class
+com\softwareag\integration\message\SampleMessage.class
+com\softwareag\integration\channels\PollableChannelImpl.class
